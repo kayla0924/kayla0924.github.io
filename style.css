@@ -1,0 +1,35 @@
+#pasta1 {image-align: center;width:400px:}
+#pasta2 {image-align: center;width:400px;}
+#pasta3 {image-align: center;width:400px;}
+#pasta4 {image-align: center;width:400px;}
+
+.topnav {
+   background-color: lightpink;
+   overflow: hidden;
+   margin: -10px;
+}
+
+.topnav a {
+   float: left;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: lightpink;
+   color: white;
+}
+
+.topnav a.active {
+   background-color: hotpink;
+   color: white;
+}
+
+body{background-color:lightyellow;}
+
+table {
+   padding: 50px;
+}
